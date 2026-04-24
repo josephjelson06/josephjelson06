@@ -45,11 +45,11 @@ I focus on building reliable systems, improving workflows, and creating work tha
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josephjelson06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephjelson06&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,14 +65,11 @@ I focus on building reliable systems, improving workflows, and creating work tha
 ## Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/josephjelson06/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:josephjelson06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
