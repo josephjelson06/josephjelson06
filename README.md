@@ -25,10 +25,9 @@
 <!-- ABOUT + GIF -->
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
 
-```text
-AI Engineer who builds practical, production-grade intelligent systems.
-If it doesn't work in production, it doesn't count.
-```
+> 🧠 *AI Engineer who builds practical, production-grade intelligent systems.*
+> *If it doesn't work in production, it doesn't count.*
+
 
 - 🤖 Building **AI Agents**, **RAG Pipelines**, and **LLM-powered applications**
 - 🎙️ Working with **Voice AI** — real-time speech systems using Deepgram
